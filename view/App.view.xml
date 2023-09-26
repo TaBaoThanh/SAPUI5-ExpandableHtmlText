@@ -1,0 +1,6 @@
+<mvc:View controllerName="sap.m.custom.HtmlText.controller.App" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core"
+	xmlns:f="sap.ui.layout.form" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:u="sap.ui.unified" xmlns:ext="sap.m.custom.HtmlText.control">
+	<ext:ExpandableHtmlText text="{/htmltext}" maxLength="100" highlightText="long"></ext:ExpandableHtmlText>
+	<ext:ExpandableHtmlText text="This is a long text that needs to be expandable. It can contain more content when expanded." maxLength="50"></ext:ExpandableHtmlText>
+	<ext:ExpandableHtmlText text="This is a long text that needs to be expandable. It can contain more content when expanded." maxLength="50"></ext:ExpandableHtmlText>
+</mvc:View>
