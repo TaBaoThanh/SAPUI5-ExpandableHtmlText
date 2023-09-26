@@ -1,4 +1,9 @@
-// Define a custom control by extending sap.ui.core.Control
+/*!
+ * Expandable Html Text v.1.0
+ * Author: Ta Bao Thanh
+ * Git: https://github.com/TaBaoThanh
+ * Build-on: 1.71 SAPUI5 version
+ */
 sap.ui.define([
 	"sap/ui/core/Control",
 	"sap/ui/core/Core",
